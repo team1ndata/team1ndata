@@ -4,7 +4,7 @@
 
 ## César A. Orejón
 
-## Karent L. Bustos
+## Karent L. Bustos [Github](https://github.com/BAKLorena)
 
 ## Luis B. Ramos
 
