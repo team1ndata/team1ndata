@@ -6,6 +6,6 @@
 
 ## Karent L. Bustos
 
-## Luis B Ramos
+## Luis B. Ramos
 
 ## Salomón Rodríguez
